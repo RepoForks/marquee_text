@@ -3,7 +3,7 @@
 一个支持文本和富文本的文本跑马灯控件。支持设置滚动速度并且使用方式和Flutter中的Text和RichText控件保持一致
 
 ## 截图
-<img src="https://github.com/bytedance/pull_to_refresh/blob/master/doc/image.gif" width="320">
+<img src="https://github.com/bytedance/marquee_text/blob/master/doc/image.gif" width="320">
 
 ## 例子
 

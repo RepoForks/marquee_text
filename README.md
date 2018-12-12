@@ -4,7 +4,7 @@ Flutter Text widget that scrolls infinitely. Provides speed that scroll
 and the Way of use just like Text and RichText in in Flutter.
 
 ## Screen
-<img src="https://github.com/bytedance/pull_to_refresh/blob/master/doc/image.gif" width="320">
+<img src="https://github.com/bytedance/marquee_text/blob/master/doc/image.gif" width="320">
 
 
 ## Example
